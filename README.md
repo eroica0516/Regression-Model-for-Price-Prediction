@@ -14,7 +14,8 @@ Welcome to my data science portfolio! I'm Jeffery Tam, a Data Engineer based in 
 
 ---
 
-## 📂 Featured Project: Fruit & Vegetable Price Forecasting (UK)(https://github.com/eroica0516/Example-Regression-Model-for-Price-Prediction)
+## 📂 Featured Project: Fruit & Vegetable Price Forecasting (UK) 
+https://github.com/eroica0516/Example-Regression-Model-for-Price-Prediction
 
 **Objective:**  
 Forecast average yearly prices of fruits and vegetables in the UK using historical data (2017–2022) to support cost control in catering operations.
@@ -29,13 +30,17 @@ Python, Pandas, Scikit-learn, Matplotlib, Seaborn, kagglehub
 - Visualized trends and predictions using multi-line and regression plots
 - Discussed limitations and proposed future improvements using time series models
 - Compared performance with ARIMA and LSTM models
+<img width="627" height="416" alt="Plot2" src="https://github.com/user-attachments/assets/b1f28ffb-9723-4c8d-8f13-ee34de79be0c" />
+
 
 ### 2. 🧹 Data Cleaning Automation
 - Built a Python package to automate common data cleaning tasks
 - Includes missing value handling, outlier detection, and type conversion
-### 3. 📊 Interactive Dashboard for Retail Analytics
-- Created a dashboard using Plotly Dash to visualize sales trends
+### 3. 📊 Interactive Dashboard
+- Created a dashboard using Plotly Dash / PowerBI to visualize sales trends
 - Integrated SQL backend for dynamic querying
+<img width="369" height="234" alt="image" src="https://github.com/user-attachments/assets/799fbae5-fde4-4580-aa8a-d81ee15bcde7" />
+
 
 ---
 
@@ -71,5 +76,5 @@ Feel free to connect or collaborate!
 
 - 📧 Email: XXXXX@XXXX.com
 - 💼 LinkedIn: 
-- 🐙 GitHub: [github.com/jefferytam](https://ata is a tool for empowerment, not just analysis.” – Xxxxx
+- 🐙 GitHub:
 
