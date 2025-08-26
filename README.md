@@ -68,7 +68,7 @@ Python, Pandas, Scikit-learn, Matplotlib, Seaborn, kagglehub
 
 - 📜 M5 Data Science Professional Practice – Predictive Modeling
 - 📜 Google Data Analytics Certificate
-- 📜 Coursera: Machine Learning by Andrew Ng
+
 ---
 
 ## 📬 Contact
