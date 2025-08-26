@@ -40,7 +40,8 @@ Python, Pandas, Scikit-learn, Matplotlib, Seaborn, kagglehub
 ### 3. 📊 Interactive Dashboard
 - Created a dashboard using Plotly Dash / PowerBI to visualize sales trends
 - Integrated SQL backend for dynamic querying
-<img width="369" height="234" alt="image" src="https://github.com/user-attachments/assets/799fbae5-fde4-4580-aa8a-d81ee15bcde7" />
+<img width="940" height="526" alt="image" src="https://github.com/user-attachments/assets/bc4479f9-5d07-4a89-9fc1-d747a9aebb29" />
+
 
 
 ---
@@ -52,7 +53,7 @@ Python, Pandas, Scikit-learn, Matplotlib, Seaborn, kagglehub
 - Pandas, NumPy, Scikit-learn, Statsmodels
 
 ### Data Visualization
-- Matplotlib, Seaborn, Plotly, Dash
+- Matplotlib, Seaborn, Plotly, Dash, PowerBI
 
 ### Machine Learning
 - Regression, Classification, Clustering
