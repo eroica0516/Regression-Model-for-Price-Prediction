@@ -14,7 +14,7 @@ Welcome to my data science portfolio! I'm Jeffery Tam, a Data Engineer based in 
 
 ---
 
-## 📂 Featured Project: Fruit & Vegetable Price Forecasting (UK) 
+## 1. 📂 Featured Project: Fruit & Vegetable Price Forecasting (UK) 
 https://github.com/eroica0516/Example-Regression-Model-for-Price-Prediction
 
 **Objective:**  
