@@ -36,6 +36,7 @@ Python, Pandas, Scikit-learn, Matplotlib, Seaborn, kagglehub
 ### 2. 🧹 Data Cleaning Automation
 - Built a Python package to automate common data cleaning tasks
 - Includes missing value handling, outlier detection, and type conversion
+
 ### 3. 📊 Interactive Dashboard
 - Created a dashboard using Plotly Dash / PowerBI to visualize sales trends
 - Integrated SQL backend for dynamic querying
